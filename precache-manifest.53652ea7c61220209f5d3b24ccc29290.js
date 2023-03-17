@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b5951e14e95966dc858e",
+    "revision": "d7f9c1c64524ba699d18",
     "url": "/DevSultan/static/css/main.e4f4bf65.chunk.css"
   },
   {
-    "revision": "b5951e14e95966dc858e",
-    "url": "/DevSultan/static/js/main.b5951e14.chunk.js"
+    "revision": "d7f9c1c64524ba699d18",
+    "url": "/DevSultan/static/js/main.d7f9c1c6.chunk.js"
   },
   {
     "revision": "01d68f57e654ac38a9a2",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/DevSultan/static/media/Job.02d1539d.jpg"
   },
   {
-    "revision": "efdd757104b4154cca683dff74e0b408",
+    "revision": "ae4d696ef345abcada994f48f5324870",
     "url": "/DevSultan/index.html"
   }
 ];
