@@ -96,10 +96,6 @@
   color: var(--secondaryColor);
   opacity: 0.5;
 }
-.contactContainer .form form input:-ms-input-placeholder, .contactContainer .form form textarea:-ms-input-placeholder {
-  color: var(--secondaryColor);
-  opacity: 0.5;
-}
 .contactContainer .form form input::placeholder, .contactContainer .form form textarea::placeholder {
   color: var(--secondaryColor);
   opacity: 0.5;

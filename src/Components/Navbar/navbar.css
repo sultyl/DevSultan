@@ -30,7 +30,6 @@
   .header .navBar {
     background: var(--projectCardColor);
     position: absolute;
-    height: -webkit-max-content;
     height: -moz-max-content;
     height: max-content;
     width: 80%;
