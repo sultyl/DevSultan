@@ -25,7 +25,7 @@ const About = () => {
           </h4>
 
           <div className="aboutBtn">
-            <a href="Resume-Sultan-Adeleke.pdf" download="Resume-Sultan-Adeleke.pdf" className="flex">
+            <a href="../../Assets/Resume.pdf" download="Resume.pdf" className="flex">
               Download CV <TbCloudDownload className='icon'/>
             </a>
           </div>
