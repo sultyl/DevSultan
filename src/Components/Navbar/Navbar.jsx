@@ -54,7 +54,7 @@ const Navbar = () => {
             <a href="#contact" className="navLink"><span className='headerNumber'>4.</span>Contact</a>
           </li>
           <button className="btn">
-            <a href="../../Assets/Resume.pdf" download="Resume.pdf">Resume</a>
+            <a href="../../Assets/Sultan-Adeleke_Resume.pdf" download="Sultan-Adeleke_Resume.pdf">Resume</a>
           </button>
         </ul>
 
