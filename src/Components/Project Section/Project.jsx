@@ -9,6 +9,7 @@ import img1 from '../../Assets/fit.jpg'
 import img2 from '../../Assets/Por.jpg'
 import img3 from '../../Assets/Res.jpg'
 import img4 from '../../Assets/Job.jpg'
+import img5 from '../../Assets/odogwu.png'
 
 
 const data = [
@@ -22,7 +23,7 @@ const data = [
     desc: 'This is a responsive business website that shows the services rendered and the team behind it',
     tech1: 'Html',
     tech2: 'CSS',
-    tech3: 'Javascript', 
+    tech3: 'javaScript', 
   },
 
   {
@@ -35,7 +36,7 @@ const data = [
     desc: 'This is a responsive for a fitness company that helps to promote the the organization',
     tech1: 'Html',
     tech2: 'CSS',
-    tech3: 'Javascript', 
+    tech3: 'javaScript', 
   },
 
   {
@@ -48,7 +49,7 @@ const data = [
     desc: 'This is a responsive Portfolio website showing your skills, works and comment from clients reagrding your previous jobs',
     tech1: 'Html',
     tech2: 'CSS',
-    tech3: 'Javascript', 
+    tech3: 'javaScript', 
   },
 
   {
@@ -61,7 +62,7 @@ const data = [
     desc: 'This is a responsive Resume website showing your Experiences, Education, services and whatever it is needed by your employer including your social links',
     tech1: 'Html',
     tech2: 'CSS',
-    tech3: 'Javascript',
+    tech3: 'javaScript',
   },
 
   {
@@ -74,7 +75,20 @@ const data = [
     desc: 'This is a dummy job search website being updated regularly to show jobs available to match the credibility of the user',
     tech1: 'Html',
     tech2: 'CSS',
-    tech3: 'Javascript',
+    tech3: 'javaScript',
+  },
+
+  {
+    id: 6,
+    image: img5,
+    demo: 'https://odogwu-dominion-portfolio.vercel.app/',
+    Livelink: 'https://odogwu-dominion-portfolio.vercel.app/',
+    github: 'https://odogwu-dominion-portfolio.vercel.app/',
+    title: 'A grapgic Designer Portfolio',
+    desc: 'This is a portfolio for a graphic designer named ODOGWU DOMINION',
+    tech1: 'Html',
+    tech2: 'Bootstrap',
+    tech3: 'javaScript',
   },
 ]
 

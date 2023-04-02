@@ -11,6 +11,9 @@ import {IoLogoWordpress} from 'react-icons/io'
 import {FaGitSquare} from 'react-icons/fa'
 import {AiOutlineGithub} from 'react-icons/ai'
 import {FaBootstrap} from 'react-icons/fa'
+import {SiTailwindcss} from 'react-icons/si'
+import {SiConfluence} from 'react-icons/si'
+import {SiJira} from 'react-icons/si'
 
 const Skills = () => {
   return (
@@ -65,13 +68,11 @@ const Skills = () => {
         <span className="skillName">CSS</span>
       </div>
     
-     
-
       <div className="singleSkill">
         <div className="iconBox flex">
-          <IoLogoSass className='icon'/>
+          <SiTailwindcss className='icon'/>
         </div>
-        <span className="skillName">Sass</span>
+        <span className="skillName">tailwind</span>
       </div>
 
       <div className="singleSkill">
@@ -101,12 +102,26 @@ const Skills = () => {
         </div>
         <span className="skillName">JQuery</span>
       </div>
+  
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <IoLogoSass className='icon'/>
+        </div>
+        <span className="skillName">Sass</span>
+      </div>
      
      <div className="singleSkill">
         <div className="iconBox flex">
-          <IoLogoWordpress className='icon'/>
+          <SiConfluence className='icon'/>
         </div>
-        <span className="skillName">Wordpress</span>
+        <span className="skillName">Confluence</span>
+      </div>
+
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <SiJira className='icon'/>
+        </div>
+        <span className="skillName">Jira</span>
       </div>
 
       <div className="singleSkill">
