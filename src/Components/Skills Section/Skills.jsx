@@ -14,6 +14,10 @@ import {FaBootstrap} from 'react-icons/fa'
 import {SiTailwindcss} from 'react-icons/si'
 import {SiConfluence} from 'react-icons/si'
 import {SiJira} from 'react-icons/si'
+import {TbBrandNextjs} from 'react-icons/tb'
+import {SiMongodb} from 'react-icons/si'
+import {FaAws} from 'react-icons/fa'
+import {SiStyledcomponents} from 'react-icons/si'
 
 const Skills = () => {
   return (
@@ -33,7 +37,7 @@ const Skills = () => {
       <div className="groupTitle">
         <h2 className="title">Front-end Development</h2>
         <span className="subTitle">
-          2 Years Experience
+          3 Years Experience
         </span>
       </div>
 
@@ -65,7 +69,7 @@ const Skills = () => {
         <div className="iconBox flex">
           <TbBrandCss3 className='icon'/>
         </div>
-        <span className="skillName">CSS</span>
+        <span className="skillName">CSS3</span>
       </div>
     
       <div className="singleSkill">
@@ -77,10 +81,26 @@ const Skills = () => {
 
       <div className="singleSkill">
         <div className="iconBox flex">
-          <IoLogoNodejs className='icon'/>
+          <TbBrandNextjs className='icon'/>
         </div>
-        <span className="skillName">Nodejs</span>
+        <span className="skillName">Next.js</span>
       </div>
+      
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <FaGitSquare className='icon'/>
+        </div>
+        <span className="skillName">Git</span>
+      </div>
+      
+             
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <AiOutlineGithub className='icon'/>
+        </div>
+        <span className="skillName">Github</span>
+      </div>
+
       
       </div>
 
@@ -126,26 +146,38 @@ const Skills = () => {
 
       <div className="singleSkill">
         <div className="iconBox flex">
-          <FaGitSquare className='icon'/>
-        </div>
-        <span className="skillName">Git</span>
-      </div>
-      
-             
-      <div className="singleSkill">
-        <div className="iconBox flex">
-          <AiOutlineGithub className='icon'/>
-        </div>
-        <span className="skillName">Github</span>
-      </div>
-
-      <div className="singleSkill">
-        <div className="iconBox flex">
           <FaBootstrap className='icon'/>
         </div>
         <span className="skillName">Bootstrap</span>
       </div>
     
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <IoLogoNodejs className='icon'/>
+        </div>
+        <span className="skillName">Nodejs</span>
+      </div>
+      
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <SiMongodb className='icon'/>
+        </div>
+        <span className="skillName">MongoDB</span>
+      </div>
+      
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <FaAws className='icon'/>
+        </div>
+        <span className="skillName">Aws</span>
+      </div>
+      
+      <div className="singleSkill">
+        <div className="iconBox flex">
+          <SiStyledcomponents className='icon'/>
+        </div>
+        <span className="skillName">Styled Components</span>
+      </div>
       
       </div>
 

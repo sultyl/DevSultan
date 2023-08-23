@@ -21,11 +21,11 @@ const About = () => {
             I am a success-driven, determined Front-end developer. I have experience using Html, Sass, tailwind and javaScript to build accessible component-based web pages and systems. <br/>
             Ability to deliver quality results while collaborating in rapidly changing work environments and team compositions.
               <br />
-            A passionate person willing to learn more technologies to become a better developer than I was yesterday. So determined and result oriented.
+            I am passionate person willing to learn more technologies to become a better developer than I was yesterday. I am aadicted to meeting deadlines, determined, attentive to detail, an effective communicator and result oriented.
           </h4>
 
           <div className="aboutBtn">
-            <a href="../../Assets/Sultan-Adeleke_Resume.pdf" download="Sultan-Adeleke_Resume.pdf" className="flex">
+            <a href="/SultanAdelekeResume.pdf" download="SultanAdeleke_Resume.pdf" className="flex">
               Download CV <TbCloudDownload className='icon'/>
             </a>
           </div>

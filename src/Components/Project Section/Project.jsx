@@ -10,6 +10,7 @@ import img2 from '../../Assets/Por.jpg'
 import img3 from '../../Assets/Res.jpg'
 import img4 from '../../Assets/Job.jpg'
 import img5 from '../../Assets/odogwu.png'
+import img6 from '../../Assets/codearcade.jpeg'
 
 
 const data = [
@@ -83,9 +84,22 @@ const data = [
     image: img5,
     demo: 'https://odogwu-dominion-portfolio.vercel.app/',
     Livelink: 'https://odogwu-dominion-portfolio.vercel.app/',
-    github: 'https://odogwu-dominion-portfolio.vercel.app/',
-    title: 'A grapgic Designer Portfolio',
+    github: 'https://github.com/sultyl/OdogwuDominion',
+    title: 'A graphic Designer Portfolio',
     desc: 'This is a portfolio for a graphic designer named ODOGWU DOMINION',
+    tech1: 'Html',
+    tech2: 'Bootstrap',
+    tech3: 'javaScript',
+  },
+
+  {
+    id: 7,
+    image: img6,
+    demo: 'https://codearcadeforkids.vercel.app/',
+    Livelink: 'https://codearcadeforkids.vercel.app/',
+    github: 'https://github.com/sultyl/CodeArcadeForKids',
+    title: 'An EdTech website',
+    desc: 'This is a portfolio for an an edtech organization',
     tech1: 'Html',
     tech2: 'Bootstrap',
     tech3: 'javaScript',

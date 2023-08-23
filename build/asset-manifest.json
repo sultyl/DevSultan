@@ -1,9 +1,9 @@
 {
-  "main.css": "/DevSultan/static/css/main.b9daa5e4.chunk.css",
-  "main.js": "/DevSultan/static/js/main.f7e6a0dc.chunk.js",
-  "main.js.map": "/DevSultan/static/js/main.f7e6a0dc.chunk.js.map",
-  "static/js/1.7e1f1647.chunk.js": "/DevSultan/static/js/1.7e1f1647.chunk.js",
-  "static/js/1.7e1f1647.chunk.js.map": "/DevSultan/static/js/1.7e1f1647.chunk.js.map",
+  "main.css": "/DevSultan/static/css/main.2199528a.chunk.css",
+  "main.js": "/DevSultan/static/js/main.286620b9.chunk.js",
+  "main.js.map": "/DevSultan/static/js/main.286620b9.chunk.js.map",
+  "static/js/1.cfd49c37.chunk.js": "/DevSultan/static/js/1.cfd49c37.chunk.js",
+  "static/js/1.cfd49c37.chunk.js.map": "/DevSultan/static/js/1.cfd49c37.chunk.js.map",
   "runtime~main.js": "/DevSultan/static/js/runtime~main.0150e6ea.js",
   "runtime~main.js.map": "/DevSultan/static/js/runtime~main.0150e6ea.js.map",
   "static/media/Ola.png": "/DevSultan/static/media/Ola.48ef1e8c.png",
@@ -13,8 +13,9 @@
   "static/media/Res.jpg": "/DevSultan/static/media/Res.6fe3d699.jpg",
   "static/media/Job.jpg": "/DevSultan/static/media/Job.02d1539d.jpg",
   "static/media/odogwu.png": "/DevSultan/static/media/odogwu.b7cfe94f.png",
-  "static/css/main.b9daa5e4.chunk.css.map": "/DevSultan/static/css/main.b9daa5e4.chunk.css.map",
+  "static/media/codearcade.jpeg": "/DevSultan/static/media/codearcade.2291ae00.jpeg",
+  "static/css/main.2199528a.chunk.css.map": "/DevSultan/static/css/main.2199528a.chunk.css.map",
   "index.html": "/DevSultan/index.html",
-  "precache-manifest.0848867c3c38802a5b59e1157fa8c6db.js": "/DevSultan/precache-manifest.0848867c3c38802a5b59e1157fa8c6db.js",
+  "precache-manifest.bd8568dfd0770c0524279f8d92631e02.js": "/DevSultan/precache-manifest.bd8568dfd0770c0524279f8d92631e02.js",
   "service-worker.js": "/DevSultan/service-worker.js"
 }
